@@ -3,10 +3,10 @@ header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json;");
 
         $hng = [
-            "slackUsername"=> "ajileyebolu",
+            "slackUsername"=> "olusameze",
             "backend"=>TRUE,
             "age"=> 23,
-            "bio"=> "I am Ajileye Boluwatife, A recent graduate transitioning into tech. I'm so glad to be part of HNG9 interns"
+            "bio"=> "I am Ezekiel Olumide, A soon to be graduate transitioning into tech. Happy to join the internship"
         
         ];
     
